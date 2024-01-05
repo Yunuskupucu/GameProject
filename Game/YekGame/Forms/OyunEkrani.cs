@@ -168,12 +168,3 @@ namespace YekGame.Forms
 
     }
 }
-
-
-//TODO:
-//Resimlerin yolları düzeltilecek
-//Kazanma ve kaybetme durumlarında ekranlar gösterilecek
-//Mümkünse yazdığın şu arap saçı gibi olan kodları düzelt az okunabilir hale getir
-//En yüksek skora sahip 5 oyuncu listesini tut ve bunu ana menüde göster yada tuşa basıldığında göster
-//Az yorum satırı da ekle kodu okuyana vahiy inmiycek ya
-//Tüm bunları yaparken uygulamayı bozma (opsiyonel)
